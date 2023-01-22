@@ -1,6 +1,8 @@
-body
+
+.series-list
 {
-    background-color: #1c1c1cc2;
+    background-color: #1c1c1cc2 !important;
+    padding: 48px 12px ;
 }
 .outer_card
 {
